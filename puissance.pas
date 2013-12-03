@@ -1,3 +1,5 @@
+(* by ZAKI Oussama *)
+
 Program Puissance;
 
 var
