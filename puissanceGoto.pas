@@ -11,9 +11,12 @@ begin
      readln(n);
 
      p:=1;
-     1 :  p := p * x;
-          n := n - 1;
-          if( n <> 0) then goto 1;
+     1 :  if( n <> 0) then
+         begin
+              p := p * x;
+              n := n - 1;
+              goto 1;
+         end;
    write('value of x^n: ', p:0:0);
    readln();
 end.
