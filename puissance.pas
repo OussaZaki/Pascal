@@ -1,6 +1,6 @@
 (* by ZAKI Oussama *)
 
-Program Puissance;
+Program PuissanceFor;
 
 var
    x, p :real;
