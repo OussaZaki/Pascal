@@ -1,4 +1,4 @@
-program PuissanceWhile;
+program PuissanceRepeat;
 var
    x, p :real;
    n, i :integer;
