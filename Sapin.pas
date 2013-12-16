@@ -45,3 +45,4 @@ begin
          drawTronc(n,3);
      readln();
 end.
+```
