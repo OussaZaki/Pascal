@@ -1,5 +1,4 @@
 Program Sapin;
-
 uses Crt;
 {une procedure pour dessiner les branches}
 procedure drawFloor (N,floor,offset : integer);
