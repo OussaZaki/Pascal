@@ -1,3 +1,4 @@
+```pascal
 program Sapin;
 uses Crt;
 {une procedure pour dessiner les branches}
