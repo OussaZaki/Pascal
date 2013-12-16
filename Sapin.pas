@@ -1,5 +1,5 @@
-```pascal
-program Sapin;
+Program Sapin;
+
 uses Crt;
 {une procedure pour dessiner les branches}
 procedure drawFloor (N,floor,offset : integer);
@@ -45,4 +45,3 @@ begin
          drawTronc(n,3);
      readln();
 end.
-```
